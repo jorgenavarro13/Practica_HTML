@@ -1,0 +1,15 @@
+{
+  "name": "html_practice",
+  "version": "1.0.0",
+  "description": "Práctica con HTML para la materia de Construcción de software",
+  "keywords": [
+    "HTML"
+  ],
+  "license": "MIT",
+  "author": "Jorge Arturo Montiel Navarro",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  }
+}
