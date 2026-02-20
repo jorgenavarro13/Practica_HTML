@@ -2,4 +2,4 @@
 ---
 Hola profe, espero este leyendo este repo. Feliz día y espero termine los demás pronto
 
-Este es el link de mi página ya desplegada con github pages: [GitHubPages](https://jorgenavarro13.github.io/Practica_HTML/)
+Este es el link de mi página ya desplegada con github pages: [GitHubPages](https://jorgenavarro13.github.io/Practica_HTML/public/index.html)
