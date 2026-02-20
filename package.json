@@ -10,6 +10,9 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "dev"
+    "dev": "node index.js --watch"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
